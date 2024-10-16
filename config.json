@@ -1,0 +1,6 @@
+{
+    "source_directory": "/home/reference/from",
+    "backup_directory": "/home/reference/to",
+    "backup_frequency": 5,
+    "log_file": "/var/log/backup_daemon.log"
+}
